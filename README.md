@@ -1,5 +1,3 @@
-# Conteúdo
-
 - GraphQL 
 - Node.js 
 - JWT 
